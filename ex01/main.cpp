@@ -10,6 +10,5 @@ int	main() {
 
 	delete[] horde;
 
-	int = 0;
 	return 0;
 }
